@@ -3,4 +3,4 @@
 
 The star-box Project is a [high-performance object detection+OCR+speed estimation] solution implemented in python and optimized using NVIDIA TensorRT. This project leverages the adv-yolo model to deliver fast and accurate object detection, utilizing TensorRT to maximize inference efficiency and performance.
 #
-![](https://github.com/tracking_speed_ocr/utils3/m6-motorway-annotated-comp-ezgif.com-video-to-gif-converter.gif)
+![](utils3/m6-motorway-annotated-comp-ezgif.com-video-to-gif-converter.gif)
